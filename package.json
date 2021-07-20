@@ -1,5 +1,5 @@
 {
-  "name": "Todo_app",
+  "name": "Todo_list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,15 +27,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GraceOyiza/Todo_app.git"
+    "url": "git+https://github.com/Arinpe/Todo_list.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GraceOyiza/Todo_app/issues"
+    "url": "https://github.com/Arinpe/Todo_list/issues"
   },
-  "homepage": "https://github.com/GraceOyiza/Todo_app#readme",
+  "homepage": "https://github.com/Arinpe/Todo_list#readme",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/plugin-transform-modules-commonjs": "^7.14.0",

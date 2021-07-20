@@ -8830,7 +8830,7 @@ textarea.form-control-lg {
 html {
   height: 100vh;
   min-width: 600px;
-  background-image: linear-gradient(130deg, #fff, #1c3f80);
+  background-image: linear-gr(130deg, #fff, #1c3f80);
   background-repeat: no-repeat;
   background-size: auto; }
 
